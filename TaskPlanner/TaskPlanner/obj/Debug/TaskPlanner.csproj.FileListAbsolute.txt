@@ -1,0 +1,6 @@
+C:\Users\senti\Desktop\MyPlanner\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.exe.config
+C:\Users\senti\Desktop\MyPlanner\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.exe
+C:\Users\senti\Desktop\MyPlanner\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.pdb
+C:\Users\senti\Desktop\MyPlanner\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csprojResolveAssemblyReference.cache
+C:\Users\senti\Desktop\MyPlanner\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.exe
+C:\Users\senti\Desktop\MyPlanner\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.pdb
